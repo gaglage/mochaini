@@ -2,6 +2,7 @@
 import {
     expect
 } from 'chai';
+
 import {
     fizzbuzz
 } from '../src/js/';
